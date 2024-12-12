@@ -1,6 +1,7 @@
 
 export default {
   mode: 'universal',
+  target: 'static',
   router: {
     base: '/test-fashion/'
   },
