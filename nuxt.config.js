@@ -1,6 +1,9 @@
 
 export default {
   mode: 'universal',
+  router: {
+    base: '/test-fashion/'
+  },
   /*
   ** Headers of the page
   */
