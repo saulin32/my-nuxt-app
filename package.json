@@ -1,0 +1,21 @@
+{
+  "name": "my-nuxt-app",
+  "version": "1.0.0",
+  "description": "My extraordinary Nuxt.js project",
+  "author": "saulin322",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/style-resources": "^1.2.2",
+    "sass": "^1.81.0",
+    "sass-loader": "10.1.1"
+  }
+}
